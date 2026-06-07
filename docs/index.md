@@ -11,7 +11,7 @@ Published: 2026-06-01.
 
 Originally published at [CodeProject](https://web.archive.org/web/20250820160345/https://www.codeproject.com/Articles/1239297/System-Random-and-Infinite-Monkey-Theorem), 2018-04-13.
 
-\[[Source Code](https://github.com/sergeykorop/monkey_typewriter/)\]
+\[[Source Code](https://github.com/sergeykorop/monkey-typewriter/)\]
 
 ## Introduction
 
