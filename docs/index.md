@@ -616,9 +616,9 @@ use in distributed computing.
 For more information about jumping along the linear random streams,
 including more efficient algorithm based on polynomial arithmetic, see
 
- * [XorShift Jump 101, Part 1: Matrix Multiplication](https://web.archive.org/web/20250820160345/https://www.codeproject.com/Articles/5264513/XorShift-Jump-101-Part-1-Matrix-Multiplication)
+ * [XorShift Jump 101, Part 1: Matrix Multiplication](/xorshift-jump/matrix-multiplication/)
 
- * [XorShift Jump 101, Part 2: Polynomial Arithmetic](https://web.archive.org/web/20250820160345/https://www.codeproject.com/Articles/5265915/XorShift-Jump-101-Part-2-Polynomial-Arithmetic)
+ * [XorShift Jump 101, Part 2: Polynomial Arithmetic](/xorshift-jump/polynomial-arithmetic/)
 
 ## History
 
